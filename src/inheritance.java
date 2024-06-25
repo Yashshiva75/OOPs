@@ -18,7 +18,7 @@ public class inheritance {
       }
       //father's walking method can be accessed by son
         public void walking(){
-            System.out.println(name+" is walking");
+            System.out.println(name+" is walking at park");
         }
 
   }
